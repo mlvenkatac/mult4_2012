@@ -1,7 +1,7 @@
 # Digital VLSI Assignment: 4-bit Array Multiplier from RTL to GDSII
 
 - **Name:** Lakshmana Venkatachary M
-- **Roll Number:** 2012
+- **Roll Number:** 2026702012
 - **Design:** 4-bit x 4-bit Unsigned Array Multiplier (mult_array)
 - **Technology:** SkyWater SKY130 (130 nm), Standard Cell Library sky130_fd_sc_hd
 
